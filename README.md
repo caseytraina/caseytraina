@@ -2,7 +2,7 @@
 ________________________
 
 ## Resume
-- I learned my first language, the beloved **Swift** when I was 12 on a flight home from the Carribbean. Then, for the next few years I messed around in Xcode and semi-completed various [Udemy](http://www.udemy.com) Courses. Then, came @CS-at-GA __AP Computer Science Principles__. Then, finally, I completed an **Indepedent Study** last year alongside Mr. Oswald, where we spent the first half of the year adventuring into various topics and finished with a *little* conversational AI experiment. 
+- I learned my first language, the beloved **Swift** when I was 12 on a flight home from the Carribbean. Then, for the next few years I messed around in Xcode and completed various [Udemy](http://www.udemy.com) Courses. Then, came @CS-at-GA __AP Computer Science Principles__. Then, finally, I completed an **Indepedent Study** last year alongside Mr. Oswald, where we spent the first half of the year adventuring into various topics and finished with a *little* conversational AI experiment. 
 
 ## Motivation
 - Coding has always been my passion; it relieves my stress, makes time fly by, and gives the best feeling when you successfully write a program. There isn't anything specific I hope to get out of this class. I just wanted some sort of Computer Science course in my schedule this year, so I didn't forget everything!
